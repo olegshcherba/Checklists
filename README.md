@@ -1,1 +1,1 @@
-# Checklists This is a to do list app written in swift 4
+This is a to do list app written in swift 4
