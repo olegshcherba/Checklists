@@ -13,11 +13,42 @@
  ![3](https://user-images.githubusercontent.com/23746155/41707739-82c12b1c-7547-11e8-84ba-1525385743bf.png) ![4](https://user-images.githubusercontent.com/23746155/41707741-82e6dd6c-7547-11e8-9067-42a0ba49b650.png)  ![5](https://user-images.githubusercontent.com/23746155/41707742-830a67d2-7547-11e8-8b34-1ca5df01b942.png)
 
 ### Gif Demo
-![gif1](https://user-images.githubusercontent.com/23746155/41708018-31df9caa-7548-11e8-939d-8f5cedfc434e.gif)
-![gif2](https://user-images.githubusercontent.com/23746155/41708019-3200851e-7548-11e8-95d0-e739e55ce702.gif)
-![gif3](https://user-images.githubusercontent.com/23746155/41708020-3222ea50-7548-11e8-9ff8-c6dfd9e1e876.gif)
-![gif4](https://user-images.githubusercontent.com/23746155/41708021-32478cf2-7548-11e8-82db-32bdb1d48ca3.gif)
-![gif5](https://user-images.githubusercontent.com/23746155/41708022-3269abe8-7548-11e8-98e7-7c9d2ddbd286.gif)
-![gif6](https://user-images.githubusercontent.com/23746155/41708024-3291374e-7548-11e8-995c-88288012e4f8.gif)
-![gif7](https://user-images.githubusercontent.com/23746155/41708025-32b20c44-7548-11e8-9ce8-f4d12f1af7bb.gif)
+ #### Create checklists  and set icons.
+ 
+![1-1](https://user-images.githubusercontent.com/23746155/41725155-d510cac8-7577-11e8-8ca0-a540d758d9b6.gif)
 
+
+
+#### Create checklists items.
+ 
+![1-2](https://user-images.githubusercontent.com/23746155/41725163-d979062a-7577-11e8-9346-03029c67a53f.gif)
+
+
+
+#### Mark done checklist items with «✔» symbol.
+
+![1-3](https://user-images.githubusercontent.com/23746155/41725166-dd38a59a-7577-11e8-8f41-70cd5294fb27.gif)
+
+
+
+#### Set reminders when you need.
+ 
+![1-4](https://user-images.githubusercontent.com/23746155/41725180-e1db7bb8-7577-11e8-9865-a7918024ece6.gif)
+
+
+
+#### Get notifications .
+ 
+![1-5](https://user-images.githubusercontent.com/23746155/41725191-e59f79de-7577-11e8-96f0-aeb68a3a5a79.gif)
+
+
+
+#### Edit checklists and it’s items.
+ 
+![1-6](https://user-images.githubusercontent.com/23746155/41725197-e9a3b662-7577-11e8-9503-b212ed00ffd2.gif)
+
+
+
+#### Swipe to delete checklists and checklist items.
+ 
+![1-7](https://user-images.githubusercontent.com/23746155/41725207-ee1af25a-7577-11e8-9129-2d7d1866e41b.gif)
