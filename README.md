@@ -6,3 +6,7 @@ Features
 3. Mark done checklist items with «✔».
 4. Set reminders and get notifications.
 5. Swipe to delete your checklists and checklist items.
+
+
+Screenshots
+![1](https://www.dropbox.com/s/ez19rivnjwbnb2x/1.png?dl=0)
